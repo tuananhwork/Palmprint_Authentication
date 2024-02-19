@@ -10,9 +10,6 @@ Though there are multiple available datasets on the internet (e.g. PolyU multi-s
 So,to test and train this model I created a dataset of 1050 palm images (both palm) , where a total of 26 people participated voluntarily in diffrent sessions. Since those data are sensitive I've not uploaded the dataset in the github repository.
 I have uploaded here a sample picture for the reference (Source: Freepik.com).
 
-
-![user_5_16](https://github.com/sinnie-pi/Palmprint_Authentication/assets/82073783/b8012d66-1852-40dc-8b48-929c704dfc98)
-
 ![empty-hand-palm-black-background_335640-1671](https://github.com/sinnie-pi/Palmprint_Authentication/assets/82073783/043d6578-a0e6-4877-a5b3-63d0f70aa058)
 
 Note: All of the picture should contain palm center, principle lines, flexor liness, datum points, wrinkles , ridges and may contain fingers. Also all the picture should be taken in dark background, where anyother object is not visible.
